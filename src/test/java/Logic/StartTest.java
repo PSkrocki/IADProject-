@@ -1,4 +1,4 @@
-package IADProject1.IadProject;
+package Logic;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
